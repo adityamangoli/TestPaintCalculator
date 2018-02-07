@@ -1,2 +1,0 @@
-# TestPaintCalculator
-Test Scripts
